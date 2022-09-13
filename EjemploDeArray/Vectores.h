@@ -1,0 +1,11 @@
+void cargarVector(int vector[], int tam);
+void ordenarVector(int vector[], int tam);
+void mostrarVector(int vector[], int tam);
+void mostrarNegativos(int vector[], int tam);
+void mostrarPositivos(int vector[], int tam);
+float calcularPromedioPositivos(int vector[], int tam);
+void mostrarPromedioPositivos(int vector[], int tam);
+int calcularMaximo(int vector[], int tam);
+void mostrarMaximo(int vector[], int tam);
+int calcularMinimo(int vector[], int tam);
+void mostrarMinimo(int vector[], int tam);
